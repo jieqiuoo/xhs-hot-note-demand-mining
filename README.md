@@ -1,9 +1,12 @@
-# 小红书评论需求挖掘
+# 小红书评论需求挖掘 · xhs-hot-note-demand-mining
 
 > 从热门笔记的**评论区**深挖用户真实需求，反推爆款选题。
 > 无需小红书 MCP，基于 Tabbit 浏览器**免登录**采集。
 
-[![skill](https://img.shields.io/badge/skill-xhs--hot--note--demand--mining-FF1B6D)](https://github.com/jieqiuoo)
+**标签**：`xiaohongshu` `agent-skill` `scraping` `tabbit` `content-research`
+
+[安装](#快速开始) · [踩坑记录](#踩坑记录) · [已知限制](#已知限制) · [License](#license)
+
 
 ## 为什么做这个
 

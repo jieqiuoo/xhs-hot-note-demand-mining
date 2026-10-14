@@ -70,6 +70,10 @@ CLI="$LOCALAPPDATA/Tabbit/LocalAgent/bin/tabbit-cli.exe"
 
 > ⚠️ 通过 agent 的 Bash 工具调用时，`timeout` 参数必须 **≥ 300000**（默认 120s 会 SIGTERM 砍掉任务）。
 
+### 📊 想看真实跑出来的效果？
+
+**[`EXAMPLE.md`](EXAMPLE.md)** 是一次完整实战的原始输出：输入配置 → 采集 JSON → 噪声分类对照 → 需求归类 → 5 个可写选题，含性能实测数据。
+
 ## 需求分析
 
 采集后按 8+1 维度归类，每条打 5 项指标算热度分（≥0.7 必做选题）：
